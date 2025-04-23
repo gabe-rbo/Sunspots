@@ -1,7 +1,6 @@
 # Trabalho Prático A de Programação de Computadores - **MANCHAS SOLARES**.
 ## Por Gabriel Ribeiro (TM1) - UFMG, 2023.
 
-#%% md
 ### Uma breve introdução às manchas:
 
 Manchas solares, ou _Sunspots_ - como são chamadas em inglês, são regiões mais escuras da superfície solar. Elas ocorrem, pois o sol possui moléculas gasosas super-carregadas eletricamente, cujo movimento constante resulta em perturbações extremas no campo eletromagnético da estrela. Essas perturbações, quando muito fortes, fazem com que o campo prenda o calor solar, criando Manchas Solares na superfície, regiões menos quentes que sua vizinhança. 
